@@ -1,0 +1,12 @@
+.shopping-list {
+    border-radius: 5px;
+    background-color: salmon;
+    box-shadow: 0 2px 3px 1px rgb(55 55 55 / 0.3);
+    color: white;
+    padding-inline: 1rem;
+    padding-block: 0.1rem;
+}
+
+.shopping-list ul {
+    padding-left: 0;
+}

@@ -1,0 +1,15 @@
+@import './assets/styles/_base.css';
+@import './assets/styles/alignment.css';
+@import './assets/styles/amount-counter.css';
+@import './assets/styles/buttons.css';
+@import './assets/styles/container.css';
+@import './assets/styles/counter.css';
+@import './assets/styles/empty-list.css';
+@import './assets/styles/form-input.css';
+@import './assets/styles/list-item.css';
+@import './assets/styles/messages.css';
+@import './assets/styles/shopping-list.css';
+@import './assets/styles/spacing.css';
+@import './assets/styles/title-container.css';
+@import './assets/styles/total.css';
+@import './assets/styles/typography.css';

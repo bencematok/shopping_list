@@ -1,0 +1,52 @@
+.btn {
+    all: unset;
+    outline: revert;
+    color: black;
+}
+
+.btn>svg {
+    pointer-events: none;
+}
+
+.btn-complete {
+    border-radius: 50%;
+}
+
+.btn-add {
+    background-color: salmon;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border: 1px solid salmon;
+    padding: 0.25rem;
+    line-height: 5px;
+    color: white;
+    font-weight: 900;
+}
+
+.btn-add:active {
+    transform: translate(2px, 2px);
+}
+
+.btn-right {
+    border: 2px solid white;
+    border-left: unset;
+    color: white;
+    border-top-right-radius: 45%;
+    border-bottom-right-radius: 45%;
+}
+
+.btn-left {
+    border: 2px solid white;
+    border-right: unset;
+    color: white;
+    border-bottom-left-radius: 45%;
+    border-top-left-radius: 45%;
+}
+
+.btn-checkbox {
+    border: 2px solid white;
+    border-radius: 5px;
+    color: white;
+    width: 20px;
+    text-align: center;
+}
